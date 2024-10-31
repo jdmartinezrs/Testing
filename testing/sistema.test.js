@@ -1,5 +1,5 @@
 import SistemaControlTeleferico from '../class/sistema';
-import Cabina from './cabina';
+import Cabina from '../class/cabina'; 
 
 describe('Sistema Control Teleférico - Pruebas Unitarias', () => {
     let sistema;

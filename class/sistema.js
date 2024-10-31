@@ -1,3 +1,5 @@
+import Cabina from './cabina';
+import Usuario from './usuario'
 class SistemaControlTeleferico {
     constructor() {
         this.cabinas = new Map();
